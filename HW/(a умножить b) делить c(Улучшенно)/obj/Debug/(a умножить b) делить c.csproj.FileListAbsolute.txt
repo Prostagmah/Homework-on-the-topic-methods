@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\(a умножить b) делить c\(a умножить b) делить c\bin\Debug\(a умножить b) делить c.exe.config
+C:\Users\User\source\repos\(a умножить b) делить c\(a умножить b) делить c\bin\Debug\(a умножить b) делить c.exe
+C:\Users\User\source\repos\(a умножить b) делить c\(a умножить b) делить c\bin\Debug\(a умножить b) делить c.pdb
+C:\Users\User\source\repos\(a умножить b) делить c\(a умножить b) делить c\obj\Debug\(a умножить b) делить c.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\(a умножить b) делить c\(a умножить b) делить c\obj\Debug\(a умножить b) делить c.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\(a умножить b) делить c\(a умножить b) делить c\obj\Debug\(a умножить b) делить c.exe
+C:\Users\User\source\repos\(a умножить b) делить c\(a умножить b) делить c\obj\Debug\(a умножить b) делить c.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\a в степени  a + b\a в степени  a + b\bin\Debug\a в степени  a + b.exe.config
+C:\Users\User\source\repos\a в степени  a + b\a в степени  a + b\bin\Debug\a в степени  a + b.exe
+C:\Users\User\source\repos\a в степени  a + b\a в степени  a + b\bin\Debug\a в степени  a + b.pdb
+C:\Users\User\source\repos\a в степени  a + b\a в степени  a + b\obj\Debug\a в степени  a + b.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\a в степени  a + b\a в степени  a + b\obj\Debug\a в степени  a + b.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\a в степени  a + b\a в степени  a + b\obj\Debug\a в степени  a + b.exe
+C:\Users\User\source\repos\a в степени  a + b\a в степени  a + b\obj\Debug\a в степени  a + b.pdb
